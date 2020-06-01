@@ -1,4 +1,4 @@
-# Message decoding based on standard location
+# Bose–Chaudhuri–Hocquenghem codes
 ## Requirements
 
 Python 3.6 Packages
